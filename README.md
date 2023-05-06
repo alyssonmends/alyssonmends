@@ -1,6 +1,6 @@
 ### :woman_technologist: Sobre mim :
 Eu sou desenvolvedor de software <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- :telescope: Eu estou trabalhando com Javascript, C#, .Net framework e SQL. 
+- :telescope: Estou trabalhando com Javascript, C#, .Net framework e SQL. 
 
 - :seedling: Estou me dedicando ao estudo do React com Next.js utilizando TypeScript.
 
